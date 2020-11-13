@@ -1,5 +1,5 @@
 | ID | Description |
-
+|----|-------------|
 |HL_01_LL_01|High level 01 – Linux Kernel,Low level 01 – Unlocked kernel.|
 |-----------|------------------------------------------------------------|
 |HL_01_LL_02|High level 01 – Linux Kernel,Low level 02 – kernel level above V4.|
