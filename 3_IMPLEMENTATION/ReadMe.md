@@ -13,4 +13,4 @@ Enableing the ip forwarding "echo 1>/proc/sys/net/ipv4/ip_forward"
   " sudo iptables --table nat --append POSTROUTING --out-interface wlx00177c9ba2a8 -j MASQUERADE"
 To check the connection is established or not ping on board side "ping 192.168.110.10"
 
-tftp -g 192.168.110.10 -r <filename> 
+tftp -g 192.168.110.10 -r <filename>
