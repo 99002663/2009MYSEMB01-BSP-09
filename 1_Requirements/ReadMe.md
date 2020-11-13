@@ -1,8 +1,7 @@
 | ID | Description |
 |----|-------------|
-|HL_01_LL_01|High level 01 – Linux Kernel,
-Low level 01 – Unlocked kernel.|
-|----|------|------------------------------------------------------------|
+|HL_01_LL_01|High level 01 – Linux Kernel,Low level 01 – Unlocked kernel.|
+|-----------|------------------------------------------------------------|
 |HL_01_LL_02|High level 01 – Linux Kernel,Low level 02 – kernel level above V4.|
 |-----------|------------------------------------------------------------------|
 |HL_02_LL_01|High level 02 – Network port Low level 01 – Ethernet|
